@@ -1,3 +1,4 @@
 public class classe1{
+system.out.pritln('salut');
 
 }
